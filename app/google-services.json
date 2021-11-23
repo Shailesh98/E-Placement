@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468538391745",
+    "project_id": "e-placement-ed725",
+    "storage_bucket": "e-placement-ed725.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468538391745:android:be83e877b211cad51e6840",
+        "android_client_info": {
+          "package_name": "com.example.e_placement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468538391745-vdtnf3qqaajfc6qvucaqic1m2egf5ucq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXecGYnLCJFcAg87cO02Uus2-60NJgXP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468538391745-vdtnf3qqaajfc6qvucaqic1m2egf5ucq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
